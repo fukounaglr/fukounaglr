@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ashhmillr
+- 👀 I’m interested in CHONNY JASH!
+- 🌱 I’m currently learning ...
+- 😄 Pronouns: they/them or any
+- ⚡ Fun fact: juno was mad
