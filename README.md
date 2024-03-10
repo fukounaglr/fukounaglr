@@ -3,11 +3,9 @@
 
 
 
-- 👋 Hi, I’m @ashhmillr AKA AJ, ash jash, Sasha J. Neil, egg/eggboy
-- 👀 I’m interested in CHONNY JASH! art, programming, music and balls
-- 🌱 I’m currently making my own site!
-- 😄 Pronouns: they/them or any
-- ⚡ Fun fact: egg
+- Hi, I’m @ashhmillr AKA AJ, ash jash, Sasha J. Neil, egg/eggboy
+- I’m interested in CHONNY JASH! art, programming, music and balls
+- I’m currently making my own site!
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
  
