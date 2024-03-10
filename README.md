@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ashhmillr
-- 👀 I’m interested in CHONNY JASH!
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @ashhmillr AKA AJ, ash jash, Sasha J. Neil, egg/eggboy
+- 👀 I’m interested in CHONNY JASH! art, programming, music and balls
+- 🌱 I’m currently making my own site!
 - 😄 Pronouns: they/them or any
 - ⚡ Fun fact: juno was mad
