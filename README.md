@@ -2,4 +2,4 @@
 - 👀 I’m interested in CHONNY JASH! art, programming, music and balls
 - 🌱 I’m currently making my own site!
 - 😄 Pronouns: they/them or any
-- ⚡ Fun fact: juno was mad
+- ⚡ Fun fact: egg
